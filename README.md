@@ -23,8 +23,9 @@ npm install
 4. Lancez le serveur local :
   ```bash
 npm start
-
+---
 Le site sera disponible sur : http://localhost:3000
+---
 ## Fonctionnalités
 -Affichage de 15 produits (3 par ligne) avec un design responsive.
 -Route dynamique pour les détails des produits (/product/:id).
