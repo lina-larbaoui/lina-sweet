@@ -9,23 +9,22 @@ Bienvenue sur **Lina's Sweet**, une boutique en ligne élégante et girly dédi�
 Suivez les étapes ci-dessous pour exécuter le projet localement :
 
 1. Clonez le dépôt Git :
-   ```bash
    git clone https://github.com/lina-larbaoui/lina-sweet.git
 
 2. Accédez au dossier du projet :
-   ```bash
 cd lina-sweet
 
 3. Installez les dépendances :
-  ```bash
 npm install
 
 4. Lancez le serveur local :
-  ```bash
 npm start
+
 ---
 Le site sera disponible sur : http://localhost:3000
+
 ---
+
 ## Fonctionnalités
 -Affichage de 15 produits (3 par ligne) avec un design responsive.
 -Route dynamique pour les détails des produits (/product/:id).
